@@ -124,9 +124,9 @@ body {
 }
 
 .mapa {
-    display: flex;
-    padding: 10%;
-    margin: 12%;
+    display:flex;
+    width: 430px;
+    flex-direction:initial ;
     justify-content: center;
 }
 
@@ -219,6 +219,12 @@ body {
         padding: 2px;
     
     }
+.titulomenu{
+    text-align: center;
+    text-decoration: overline solid;
+    font-family: 'Pacifico', cursive;
+}
+
 
 
 
